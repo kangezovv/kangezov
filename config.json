@@ -1,0 +1,5 @@
+{
+    "files_dir": "/apache/logs",
+    "ext": "log",
+    "format": "%h %l %t \"%r\" %>s %b"
+}
